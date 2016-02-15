@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.11.7)  12 FEB 2016 01:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=latex 2015.11.7)  15 FEB 2016 14:07
 entering extended mode
 **kursovaya2.tex
 (kursovaya2.tex
@@ -84,11 +84,7 @@ File: dvips.def 2014/10/14 v3.0j Driver-dependent file (DPC,SPQR)
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-(kursovaya2.aux
-LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
-File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
+(kursovaya2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
@@ -102,32 +98,37 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 10.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 LaTeX Font Info:    ... okay on input line 10.
- (titul.tex [1
+ (titul.tex
+[1
 
 ]) [1] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
- [3] [4] [5]
-File: рис1.eps Graphic file (type eps)
 
-<рис1.eps>
-File: рис2.eps Graphic file (type eps)
- <рис2.eps>
-File: рис3.eps Graphic file (type eps)
- <рис3.eps>
+[3] [4] [5]
+File: pic1.eps Graphic file (type eps)
+ <pic1.eps>
+File: pic2.eps Graphic file (type eps)
+ <pic2.eps>
+File: pic3.eps Graphic file (type eps)
+ <pic3.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис4.eps Graphic file (type eps)
-<рис4.eps> [6]
-File: рис5.eps Graphic file (type eps)
- <рис5.eps>
+File: pic4.eps Graphic file (type eps)
+<pic4.eps> [6]
+File: pic5.eps Graphic file (type eps)
+ <pic5.eps>
 
 LaTeX Warning: Float too large for page by 1271.24905pt on input line 110.
 
@@ -135,71 +136,71 @@ LaTeX Warning: Float too large for page by 1271.24905pt on input line 110.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис6.eps Graphic file (type eps)
-<рис6.eps>
+File: pic6.eps Graphic file (type eps)
+<pic6.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис7.eps Graphic file (type eps)
-<рис7.eps>
+File: pic7.eps Graphic file (type eps)
+<pic7.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис8.eps Graphic file (type eps)
-<рис8.eps>
+File: pic8.eps Graphic file (type eps)
+<pic8.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8]
-File: рис9.eps Graphic file (type eps)
- <рис9.eps>
+File: pic9.eps Graphic file (type eps)
+ <pic9.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис10.eps Graphic file (type eps)
-<рис10.eps>
+File: pic10.eps Graphic file (type eps)
+<pic10.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис11.eps Graphic file (type eps)
-<рис11.eps>
+File: pic11.eps Graphic file (type eps)
+<pic11.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис12.eps Graphic file (type eps)
-<рис12.eps>
+File: pic12.eps Graphic file (type eps)
+<pic12.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9]
-File: рис13.eps Graphic file (type eps)
- <рис13.eps>
+File: pic13.eps Graphic file (type eps)
+ <pic13.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис14.eps Graphic file (type eps)
-<рис14.eps>
+File: pic14.eps Graphic file (type eps)
+<pic14.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис15.eps Graphic file (type eps)
-<рис15.eps> [10]
+File: pic15.eps Graphic file (type eps)
+<pic15.eps> [10]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис16.eps Graphic file (type eps)
-<рис16.eps>
+File: pic16.eps Graphic file (type eps)
+<pic16.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: рис17.eps Graphic file (type eps)
-<рис17.eps>
+File: pic17.eps Graphic file (type eps)
+<pic17.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [11]
-File: рис18.eps Graphic file (type eps)
- <рис18.eps>
+File: pic18.eps Graphic file (type eps)
+ <pic18.eps>
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -531,13 +532,17 @@ Missing character: There is no ы in font cmr10!
 l.246 \item П
              онимаем мультивибратор [Электронный ресурс]
 ? 
-[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] (kursovaya2.aux) ) 
+[13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] (kursovaya2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 1511 strings out of 493674
- 18191 string characters out of 3141511
+ 1508 strings out of 493674
+ 18158 string characters out of 3141511
  77279 words of memory out of 3000000
- 4872 multiletter control sequences out of 15000+200000
- 7982 words of font info for 20 fonts, out of 3000000 for 9000
+ 4870 multiletter control sequences out of 15000+200000
+ 7177 words of font info for 19 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  25i,4n,23p,1684b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
 
