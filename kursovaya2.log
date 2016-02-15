@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.12)  16 FEB 2016 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.12)  16 FEB 2016 01:09
 entering extended mode
 **kursovaya2.tex
 (kursovaya2.tex
@@ -394,14 +394,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--240
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
  2835 strings out of 493673
  35156 string characters out of 3141485
- 98290 words of memory out of 3000000
+ 98289 words of memory out of 3000000
  6150 multiletter control sequences out of 15000+200000
  8223 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
