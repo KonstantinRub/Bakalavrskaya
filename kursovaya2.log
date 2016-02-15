@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.12)  15 FEB 2016 21:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.12)  16 FEB 2016 01:03
 entering extended mode
 **kursovaya2.tex
 (kursovaya2.tex
@@ -157,25 +157,41 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box28
 \@float@everytoks=\toks21
 \@floatcapt=\box29
-) (kursovaya2.aux
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(kursovaya2.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 17.
+LaTeX Font Info:    No file OT1ftm.fd. on input line 17.
+
+
+LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 17.
+
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 17.
+LaTeX Font Info:    No file T2Aftm.fd. on input line 17.
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 17.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -193,161 +209,214 @@ LaTeX Font Info:    ... okay on input line 11.
 ) (titul.tex [1
 
 {C:/Users/РљРѕРЅСЃС‚Р°РЅС‚РёРЅ/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.ma
-p}]) [1] [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+p}])
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
- [3] [4] [5]
-<pic1.png, id=24, 255.95625pt x 45.16875pt>
+LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 20.
+
+(kursovaya2.toc)
+\tf@toc=\write3
+ [1
+
+]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+[2
+
+] [3]
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 47.
+LaTeX Font Info:    No file OMSftm.fd. on input line 47.
+
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 47.
+
+
+Overfull \hbox (23.77498pt too wide) in paragraph at lines 53--54
+\T2A/ftm/bx/n/14.4 плекс про-грамм-ных средств для об-лег-че-ния раз-ра-бот-ки 
+элек-трон-ных устройств,
+ []
+
+[4] [5] [6] <pic1.png, id=30, 255.95625pt x 45.16875pt>
 File: pic1.png Graphic file (type png)
  <use pic1.png>
-Package pdftex.def Info: pic1.png used on input line 76.
-(pdftex.def)             Requested size: 345.0pt x 60.88625pt.
+Package pdftex.def Info: pic1.png used on input line 69.
+(pdftex.def)             Requested size: 475.0pt x 83.82895pt.
 
-<pic2.png, id=25, 406.51875pt x 59.47218pt>
+<pic2.png, id=31, 406.51875pt x 59.47218pt>
 File: pic2.png Graphic file (type png)
  <use pic2.png>
-Package pdftex.def Info: pic2.png used on input line 84.
-(pdftex.def)             Requested size: 345.0pt x 50.47354pt.
-
-<pic3.png, id=26, 224.33812pt x 45.92157pt>
+Package pdftex.def Info: pic2.png used on input line 77.
+(pdftex.def)             Requested size: 475.0pt x 69.49323pt.
+ [7 <./pic1.png>]
+<pic3.png, id=35, 224.33812pt x 45.92157pt>
 File: pic3.png Graphic file (type png)
  <use pic3.png>
-Package pdftex.def Info: pic3.png used on input line 92.
-(pdftex.def)             Requested size: 345.0pt x 70.62833pt.
+Package pdftex.def Info: pic3.png used on input line 85.
+(pdftex.def)             Requested size: 475.0pt x 97.24182pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<pic4.png, id=27, 471.26062pt x 245.41687pt>
+<pic4.png, id=36, 471.26062pt x 245.41687pt>
 File: pic4.png Graphic file (type png)
  <use pic4.png>
-Package pdftex.def Info: pic4.png used on input line 100.
-(pdftex.def)             Requested size: 345.0pt x 179.66585pt.
- [6 <./pic1.png> <./pic2.png>] <pic5.png, id=32, 28.60687pt x 150.5625pt>
+Package pdftex.def Info: pic4.png used on input line 93.
+(pdftex.def)             Requested size: 475.0pt x 247.36726pt.
+ [8 <./pic2.png> <./pic3.png>] <pic5.png, id=40, 28.60687pt x 150.5625pt>
 File: pic5.png Graphic file (type png)
  <use pic5.png>
-Package pdftex.def Info: pic5.png used on input line 108.
-(pdftex.def)             Requested size: 345.0pt x 1816.61732pt.
- [7 <./pic3.png> <./pic4.png>] [8]
-Overfull \vbox (1290.5613pt too high) has occurred while \output is active []
+Package pdftex.def Info: pic5.png used on input line 101.
+(pdftex.def)             Requested size: 475.0pt x 2501.14014pt.
+ [9 <./pic4.png>] [10]
+Overfull \vbox (1828.68414pt too high) has occurred while \output is active []
 
 
-[9 <./pic5.png>] <pic6.png, id=42, 372.64218pt x 405.01312pt>
+[11 <./pic5.png>] <pic6.png, id=50, 372.64218pt x 405.01312pt>
 File: pic6.png Graphic file (type png)
  <use pic6.png>
-Package pdftex.def Info: pic6.png used on input line 117.
-(pdftex.def)             Requested size: 345.0pt x 374.98352pt.
+Package pdftex.def Info: pic6.png used on input line 110.
+(pdftex.def)             Requested size: 475.0pt x 516.28291pt.
 
-<pic7.png, id=43, 472.76625pt x 24.09pt>
+[12] <pic7.png, id=55, 472.76625pt x 24.09pt>
 File: pic7.png Graphic file (type png)
  <use pic7.png>
-Package pdftex.def Info: pic7.png used on input line 124.
-(pdftex.def)             Requested size: 345.0pt x 17.58002pt.
- [10 <./pic6.png>]
-<pic8.png, id=47, 328.22626pt x 314.67563pt>
+Package pdftex.def Info: pic7.png used on input line 117.
+(pdftex.def)             Requested size: 475.0pt x 24.20422pt.
+
+<pic8.png, id=56, 328.22626pt x 314.67563pt>
 File: pic8.png Graphic file (type png)
  <use pic8.png>
-Package pdftex.def Info: pic8.png used on input line 134.
-(pdftex.def)             Requested size: 345.0pt x 330.76006pt.
- [11 <./pic7.png>]
-<pic9.png, id=51, 472.76625pt x 245.41687pt>
+Package pdftex.def Info: pic8.png used on input line 127.
+(pdftex.def)             Requested size: 475.0pt x 455.39888pt.
+ [13 <./pic6.png> <./pic7.png>] [14] [15 <./pic8.png>]
+<pic9.png, id=66, 472.76625pt x 245.41687pt>
 File: pic9.png Graphic file (type png)
  <use pic9.png>
-Package pdftex.def Info: pic9.png used on input line 144.
-(pdftex.def)             Requested size: 345.0pt x 179.09665pt.
- [12 <./pic8.png>]
-<pic10.png, id=56, 465.99094pt x 395.97937pt>
+Package pdftex.def Info: pic9.png used on input line 137.
+(pdftex.def)             Requested size: 475.0pt x 246.58087pt.
+
+<pic10.png, id=67, 465.99094pt x 395.97937pt>
 File: pic10.png Graphic file (type png)
  <use pic10.png>
-Package pdftex.def Info: pic10.png used on input line 155.
-(pdftex.def)             Requested size: 345.0pt x 293.17725pt.
- [13 <./pic9.png>] <pic11.png, id=60, 477.28313pt x 295.1025pt>
+Package pdftex.def Info: pic10.png used on input line 148.
+(pdftex.def)             Requested size: 475.0pt x 403.65193pt.
+ [16 <./pic9.png>] <pic11.png, id=71, 477.28313pt x 295.1025pt>
 File: pic11.png Graphic file (type png)
  <use pic11.png>
-Package pdftex.def Info: pic11.png used on input line 164.
-(pdftex.def)             Requested size: 345.0pt x 213.31116pt.
- [14 <./pic10.png>] <pic12.png, id=64, 423.83344pt x 185.19188pt>
+Package pdftex.def Info: pic11.png used on input line 157.
+(pdftex.def)             Requested size: 475.0pt x 293.68785pt.
+ [17 <./pic10.png>] <pic12.png, id=75, 423.83344pt x 185.19188pt>
 File: pic12.png Graphic file (type png)
  <use pic12.png>
-Package pdftex.def Info: pic12.png used on input line 172.
-(pdftex.def)             Requested size: 345.0pt x 150.7506pt.
- [15 <./pic11.png> <./pic12.png>] <pic13.png, id=68, 423.08063pt x 219.82124pt>
+Package pdftex.def Info: pic12.png used on input line 165.
+(pdftex.def)             Requested size: 475.0pt x 207.55757pt.
+
+Overfull \hbox (9.85979pt too wide) in paragraph at lines 162--168
+\T2A/ftm/bx/n/14.4 ро-вать спи-сок це-пей\OT1/cmr/m/n/14.4 \\T2A/ftm/bx/n/14.4 
+. По-сле на-жа-тия по-яв-ля-ет-ся спе-ци-аль-ное ок-но (рис.1.12[]): 
+ []
+
+[18 <./pic11.png> <./pic12.png>] <pic13.png, id=80, 423.08063pt x 219.82124pt>
 File: pic13.png Graphic file (type png)
 
 <use pic13.png>
-Package pdftex.def Info: pic13.png used on input line 182.
-(pdftex.def)             Requested size: 345.0pt x 179.25838pt.
- <pic14.png, id=69, 29.35968pt x 27.10126pt>
+Package pdftex.def Info: pic13.png used on input line 175.
+(pdftex.def)             Requested size: 475.0pt x 246.8052pt.
+ [19 <./pic13.png>] <pic14.png, id=84, 29.35968pt x 27.10126pt>
 File: pic14.png Graphic file (type png)
- <use pic14.png>
-Package pdftex.def Info: pic14.png used on input line 193.
-(pdftex.def)             Requested size: 345.0pt x 318.63364pt.
 
-[16 <./pic13.png>] <pic15.png, id=73, 422.32782pt x 352.31625pt>
+<use pic14.png>
+Package pdftex.def Info: pic14.png used on input line 186.
+(pdftex.def)             Requested size: 475.0pt x 438.69829pt.
+ [20] <pic15.png, id=88, 422.32782pt x 352.31625pt>
 File: pic15.png Graphic file (type png)
 
 <use pic15.png>
-Package pdftex.def Info: pic15.png used on input line 201.
-(pdftex.def)             Requested size: 345.0pt x 287.81526pt.
- [17 <./pic14.png>]
-<pic16.png, id=77, 303.38344pt x 362.85562pt>
+Package pdftex.def Info: pic15.png used on input line 194.
+(pdftex.def)             Requested size: 475.0pt x 396.26878pt.
+ [21 <./pic14.png>] [22 <./pic15.png>]
+<pic16.png, id=95, 303.38344pt x 362.85562pt>
 File: pic16.png Graphic file (type png)
  <use pic16.png>
-Package pdftex.def Info: pic16.png used on input line 211.
-(pdftex.def)             Requested size: 345.0pt x 412.6354pt.
- [18 <./pic15.png>] <pic17.png, id=82, 361.35pt x 360.59718pt>
+Package pdftex.def Info: pic16.png used on input line 204.
+(pdftex.def)             Requested size: 475.0pt x 568.12323pt.
+ [23]
+<pic17.png, id=99, 361.35pt x 360.59718pt>
 File: pic17.png Graphic file (type png)
  <use pic17.png>
-Package pdftex.def Info: pic17.png used on input line 219.
-(pdftex.def)             Requested size: 345.0pt x 344.28207pt.
- [19 <./pic16.png>] [20 <./pic17.png>] [21] <pic18.png, id=92, 214.55156pt x 24
-3.91125pt>
+Package pdftex.def Info: pic17.png used on input line 212.
+(pdftex.def)             Requested size: 475.0pt x 474.01443pt.
+ [24 <./pic16.png>]
+[25 <./pic17.png>] [26] <pic18.png, id=110, 214.55156pt x 243.91125pt>
 File: pic18.png Graphic file (type png)
 
 <use pic18.png>
-Package pdftex.def Info: pic18.png used on input line 233.
-(pdftex.def)             Requested size: 345.0pt x 392.24594pt.
- [22 <./pic18.png>]
-Overfull \hbox (35.4361pt too wide) in paragraph at lines 239--240
-\T2A/cmr/m/n/10 https://ru.wikipedia.org/wiki/Система_автоматизированного_проек
-тирования  
+Package pdftex.def Info: pic18.png used on input line 226.
+(pdftex.def)             Requested size: 475.0pt x 540.04904pt.
+ [27] [28 <./pic18.png>] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+[]\T2A/ftm/bx/n/14.4 Система ав-то-ма-ти-зи-ро-ван-но-го про-ек-ти-ро-
  []
 
 
-Overfull \hbox (38.35205pt too wide) in paragraph at lines 240--241
-\T2A/cmr/m/n/10 https://ru.m.wikipedia.org/wiki/Автоматизация_проектирования_эл
-ектроники  
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+\T2A/ftm/bx/n/14.4 ва-ния [Элек-трон-ный ре-сурс] Ви-ки-пе-дия
  []
 
-[23
+
+Overfull \hbox (44.65434pt too wide) in paragraph at lines 233--234
+\T2A/ftm/bx/n/14.4 https://ru.wikipedia.org/wiki/Система_автоматизированного_пр
+оектирования 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+[]\T2A/ftm/bx/n/14.4 Автоматизация про-ек-ти-ро-ва-ния элек-тро-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
+\T2A/ftm/bx/n/14.4 ни-ки [Элек-трон-ный ре-сурс] Ви-ки-пе-дия
+ []
+
+
+Overfull \hbox (48.65347pt too wide) in paragraph at lines 234--235
+\T2A/ftm/bx/n/14.4 https://ru.m.wikipedia.org/wiki/Автоматизация_проектирования
+_электроники 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--240
+[]\T2A/ftm/bx/n/14.4 Понимаем муль-ти-виб-ра-тор [Элек-трон-ный ре-сурс]
+ []
+
+[30
 
 ] (kursovaya2.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2815 strings out of 493673
- 34880 string characters out of 3141485
- 98092 words of memory out of 3000000
- 6142 multiletter control sequences out of 15000+200000
- 8504 words of font info for 20 fonts, out of 3000000 for 9000
+ 2835 strings out of 493673
+ 35156 string characters out of 3141485
+ 98290 words of memory out of 3000000
+ 6150 multiletter control sequences out of 15000+200000
+ 8223 words of font info for 23 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,6n,23p,1696b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,23p,1696b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\l
-h-t2a\dpi600\labx2488.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ
-\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\unknown\unknown\dpi600\larm1000.pk><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on kursovaya2.pdf (24 pages, 1069958 bytes).
+h-t2a\dpi600\larm2074.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ\AppData\Local\MiKTeX\2
+.9\fonts\pk\ljfour\unknown\unknown\dpi600\larm1000.pk> <C:\Users\РљРѕРЅСЃС‚Р°РЅ
+С‚РёРЅ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk> <
+C:\Users\РљРѕРЅСЃС‚Р°РЅС‚РёРЅ\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
+a\dpi600\larm1440.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb>
+Output written on kursovaya2.pdf (31 pages, 1095676 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
+ 349 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

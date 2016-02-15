@@ -1,7 +1,6 @@
 \select@language {russian}
-\contentsline {section}{\numberline {0.1}Введение}{3}
-\contentsline {section}{\numberline {0.2}Теоретическая часть}{4}
-\contentsline {section}{\numberline {0.3}1.1. История САПР}{6}
-\contentsline {section}{\numberline {0.4}2.Практическая часть}{7}
-\contentsline {section}{\numberline {0.5}Заключение}{19}
-\contentsline {section}{\numberline {0.6}Список источников}{20}
+\contentsline {chapter}{\numberline {1}Введение}{2}
+\contentsline {section}{\numberline {1.1}Теоретическая часть}{3}
+\contentsline {section}{\numberline {1.2}История САПР}{6}
+\contentsline {section}{\numberline {1.3}Практическая часть}{7}
+\contentsline {section}{\numberline {1.4}Литература}{29}
