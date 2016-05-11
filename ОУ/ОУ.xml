@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/Константин/Desktop/ОУ/ОУ.sch</source>
+    <date>11.05.2016 0:39:04</date>
+    <tool>Eeschema 4.0.2-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ОУ.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Uaa1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57320DE6</tstamp>
+    </comp>
+    <comp ref="Ubb1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57320E3C</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>1,1К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57320EAB</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>47К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57320FD9</tstamp>
+    </comp>
+    <comp ref="Ryzm2">
+      <value>0,01</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>573210EA</tstamp>
+    </comp>
+    <comp ref="Uaaa1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322DF5</tstamp>
+    </comp>
+    <comp ref="Ubbb1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322DFB</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>1,1К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322E01</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>47К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322E07</tstamp>
+    </comp>
+    <comp ref="Ryzm3">
+      <value>0,01</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322E0D</tstamp>
+    </comp>
+    <comp ref="Ua1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322F48</tstamp>
+    </comp>
+    <comp ref="Ub1">
+      <value>LM358N</value>
+      <libsource lib="linear" part="LM358N"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322F4E</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1,1К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322F54</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>47К</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322F5A</tstamp>
+    </comp>
+    <comp ref="Ryzm1">
+      <value>0,01</value>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>57322F60</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="linear" part="LM358">
+      <aliases>
+        <alias>LMC6062</alias>
+        <alias>LMC6082</alias>
+        <alias>LM358N</alias>
+        <alias>TL072</alias>
+        <alias>TL082</alias>
+      </aliases>
+      <description>Dual Op amp (low power)</description>
+      <docs>ns/lm158.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM358</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="~" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="linear">
+      <uri>C:\Program Files\KiCad\share\kicad\library\linear.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R32-Pad1)">
+      <node ref="Ubbb1" pin="3"/>
+      <node ref="R32" pin="1"/>
+      <node ref="Uaaa1" pin="1"/>
+    </net>
+    <net code="2" name="Net-(Ub1-Pad1)">
+      <node ref="Ub1" pin="2"/>
+      <node ref="Ub1" pin="1"/>
+    </net>
+    <net code="3" name="Net-(Ryzm1-Pad1)">
+      <node ref="Ryzm1" pin="1"/>
+      <node ref="Ua1" pin="3"/>
+    </net>
+    <net code="4" name="Net-(Ubbb1-Pad1)">
+      <node ref="Ubbb1" pin="1"/>
+      <node ref="Ubbb1" pin="2"/>
+    </net>
+    <net code="5" name="Net-(R31-Pad1)">
+      <node ref="Uaaa1" pin="2"/>
+      <node ref="R31" pin="1"/>
+      <node ref="R32" pin="2"/>
+    </net>
+    <net code="6" name="Net-(Ryzm3-Pad1)">
+      <node ref="Ryzm3" pin="1"/>
+      <node ref="Uaaa1" pin="3"/>
+    </net>
+    <net code="7" name="GND">
+      <node ref="Ryzm2" pin="2"/>
+      <node ref="R11" pin="2"/>
+      <node ref="Ubb1" pin="4"/>
+      <node ref="Ubbb1" pin="4"/>
+      <node ref="Ryzm1" pin="2"/>
+      <node ref="R31" pin="2"/>
+      <node ref="Ryzm3" pin="2"/>
+      <node ref="R21" pin="2"/>
+      <node ref="Ub1" pin="4"/>
+      <node ref="Uaaa1" pin="4"/>
+      <node ref="Ua1" pin="4"/>
+      <node ref="Uaa1" pin="4"/>
+    </net>
+    <net code="8" name="+12V">
+      <node ref="Uaa1" pin="8"/>
+      <node ref="Ubbb1" pin="8"/>
+      <node ref="Ub1" pin="8"/>
+      <node ref="Ubb1" pin="8"/>
+      <node ref="Uaaa1" pin="8"/>
+      <node ref="Ua1" pin="8"/>
+    </net>
+    <net code="9" name="Net-(R12-Pad1)">
+      <node ref="Ub1" pin="3"/>
+      <node ref="R12" pin="1"/>
+      <node ref="Ua1" pin="1"/>
+    </net>
+    <net code="10" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1"/>
+      <node ref="R12" pin="2"/>
+      <node ref="Ua1" pin="2"/>
+    </net>
+    <net code="11" name="Net-(Ubb1-Pad1)">
+      <node ref="Ubb1" pin="2"/>
+      <node ref="Ubb1" pin="1"/>
+    </net>
+    <net code="12" name="Net-(Ryzm2-Pad1)">
+      <node ref="Ryzm2" pin="1"/>
+      <node ref="Uaa1" pin="3"/>
+    </net>
+    <net code="13" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1"/>
+      <node ref="Ubb1" pin="3"/>
+      <node ref="Uaa1" pin="1"/>
+    </net>
+    <net code="14" name="Net-(R21-Pad1)">
+      <node ref="R22" pin="2"/>
+      <node ref="R21" pin="1"/>
+      <node ref="Uaa1" pin="2"/>
+    </net>
+  </nets>
+</export>
